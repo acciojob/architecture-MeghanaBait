@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	width: 1100px;
+}
+
+table{
+	align: center;
+}
+.firstColumn{
+	width:200px;
+}
+
+.middleColumn{
+	width:600px;
+}
+
+.lastColumn{
+	width: 200px;
+}
